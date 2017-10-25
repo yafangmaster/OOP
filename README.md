@@ -16,7 +16,7 @@
 
 [06.如何去使用对象中的成员](06.如何去使用对象中的成员.md)
 
-[07.特殊的引用"$this"的使用](https://github.com/yafangmaster/OOP/blob/master/07.%E7%89%B9%E6%AE%8A%E7%9A%84%E5%BC%95%E7%94%A8%22%24this%22%E7%9A%84%E4%BD%BF%E7%94%A8.md)
+[07.特殊的引用"$this"的使用](07.%E7%89%B9%E6%AE%8A%E7%9A%84%E5%BC%95%E7%94%A8%22%24this%22%E7%9A%84%E4%BD%BF%E7%94%A8.md)
 
 [08.构造方法\_\_construct\(\)与析构方法\_\_destruct\(\)](08.构造方法__construct%28%29与析构方法__destruct%28%29.md)
 
