@@ -16,7 +16,7 @@
 
 [06.如何去使用对象中的成员](06.如何去使用对象中的成员.md)
 
-[07.特殊的引用”$this“的使用](07.特殊的引用”%24this“的使用.md)
+[07.特殊的引用”$this“的使用](https://github.com/yafangmaster/OOP/blob/master/07.%E7%89%B9%E6%AE%8A%E7%9A%84%E5%BC%95%E7%94%A8%E2%80%9D%24this%E2%80%9C%E7%9A%84%E4%BD%BF%E7%94%A8.md)
 
 [08.构造方法\_\_construct\(\)与析构方法\_\_destruct\(\)](08.构造方法__construct%28%29与析构方法__destruct%28%29.md)
 
@@ -50,5 +50,5 @@
 
 [23.自动加载类 \_\_autoload\(\)函数](23.自动加载类 __autoload%28%29函数.md)
 
-[PHP中的魔术方法](PHP%E4%B8%AD%E7%9A%84%E9%AD%94%E6%9C%AF%E6%96%B9%E6%B3%95.md)
+[PHP中的魔术方法](PHP中的魔术方法.md)
 
